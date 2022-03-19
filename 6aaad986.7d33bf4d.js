@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{85:function(i){i.exports=JSON.parse('{"pluginId":"plugin-docs-css","version":"current","label":"Next","isLast":true,"docsSidebars":{"indexNav":[{"type":"link","label":"Constitution","href":"/wiki/css/"}]},"permalinkToSidebar":{"/wiki/css/":"indexNav"}}')}}]);
